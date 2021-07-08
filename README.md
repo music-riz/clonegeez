@@ -1,11 +1,11 @@
-<h1 align="centre">🎵 Geez Music Projects 🎵</h1>
+<h1 align="centre">🎵 Ann Music Projects 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
 ### Available on telegram as [@wemusickonn_bot](https://t.me/wemusickonn_bot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/9c33051aae30b996e0ca4.jpg">
+  <img src="">
 </p>
 <h2> Features </h2>
 
