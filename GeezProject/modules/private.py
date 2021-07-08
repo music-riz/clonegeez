@@ -149,7 +149,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "📜 Cara Menggunakan BOT 📜", url="https://t.me/Vckyouuu/32"
+                        "📜 Cara Menggunakan BOT 📜", url="https://t.me/extrememob/30"
                     )
                 ]
             ]
