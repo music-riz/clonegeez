@@ -59,7 +59,7 @@ Ingin Menambahkan Saya ke Grup Anda? Tambahkan Saya Ke Group Anda!
                         "🛠 Source Code 🛠", url=f"https://{SOURCE_CODE}")
                 ],[
                     InlineKeyboardButton(
-                        "🎁 Donate", url=f"https://t.me/Bukan_guudlooking")
+                        "🎁 Donate", url=f"https://t.me/extrememob")
                 ]
             ]
         ),
@@ -149,7 +149,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "📜 Cara Menggunakan BOT 📜", url="https://t.me/VirtualMusicChannel/12"
+                        "📜 Cara Menggunakan BOT 📜", url="https://t.me/puitiszone/30"
                     )
                 ]
             ]
@@ -168,10 +168,10 @@ async def reload(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Group Support", url=f"https://t.me/GroupVirtualMusic"
+                        "Group Support", url=f"https://t.me/roomsukasuka"
                     ),
                     InlineKeyboardButton(
-                        "Created By", url=f"https://t.me/Bukan_guudlooking"
+                        "Created By", url=f"https://t.me/extrememob"
                     )
                 ]
             ]
