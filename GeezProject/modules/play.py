@@ -929,7 +929,7 @@ async def deezer(client: Client, message_: Message):
     
     keyboard = InlineKeyboardMarkup(
         [
-            [InlineKeyboardButton(text="⛑ Channel", url="https://t.me/VirtualMusicChannel")],
+            [InlineKeyboardButton(text="⛑ Channel", url="https://t.me/puitiszone")],
         ]
     )
     file_path = await convert(wget.download(url))
