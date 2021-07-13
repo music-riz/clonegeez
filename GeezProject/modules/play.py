@@ -530,8 +530,8 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📌 Groups", url="https://t.me/GroupVirtualMusic"),
-                    InlineKeyboardButton("⛑ Channel", url="https://t.me/VirtualMusicChannel"),
+                    InlineKeyboardButton("📌 Groups", url="https://t.me/roomsukasuka"),
+                    InlineKeyboardButton("⛑ Channel", url="https://t.me/puitiszone"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
             ]
@@ -577,8 +577,8 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📌 Groups", url="https://t.me/GroupVirtualMusic"),
-                    InlineKeyboardButton("⛑ Channel", url="https://t.me/VirtualMusicChannel"),
+                    InlineKeyboardButton("📌 Groups", url="https://t.me/roomsukasuka"),
+                    InlineKeyboardButton("⛑ Channel", url="https://t.me/puitiszone"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
             ]
@@ -656,8 +656,8 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📌 Groups", url="https://t.me/GroupVirtualMusic"),
-                    InlineKeyboardButton("⛑ Channel", url="https://t.me/VirtualMusicChannel"),
+                    InlineKeyboardButton("📌 Groups", url="https://t.me/roomsukasuka"),
+                    InlineKeyboardButton("⛑ Channel", url="https://t.me/puitiszone"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
             ]
@@ -794,8 +794,8 @@ async def ytplay(_, message: Message):
     keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📌 Groups", url="https://t.me/GroupVirtualMusic"),
-                    InlineKeyboardButton("⛑ Channel", url="https://t.me/VirtualMusicChannnel"),
+                    InlineKeyboardButton("📌 Groups", url="https://t.me/roomsukasuka"),
+                    InlineKeyboardButton("⛑ Channel", url="https://t.me/puitiszone"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
             ]
@@ -1024,8 +1024,8 @@ async def lol_cb(b, cb):
     keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📌 Groups", url="https://t.me/GroupVirtualMusic"),
-                    InlineKeyboardButton("🛡️ Channel", url="https://t.me/VirtualMusicChannel"),
+                    InlineKeyboardButton("📌 Groups", url="https://t.me/roomsukasuka"),
+                    InlineKeyboardButton("🛡️ Channel", url="https://t.me/puitiszone"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
             ]
